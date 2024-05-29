@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Ciao!
 
-<!--
-**lorenzogentile404/lorenzogentile404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Lorenzo Gentile
+🔐 Research Engineer at Consensys  
+🎓 PhD in Cryptography from [IT University of Copenhagen](https://www.itu.dk)  
+🎓 Master's in Computer Engineering from [Politecnico di Milano](https://www.polimi.it)
 
-Here are some ideas to get you started:
+## 🌟 Professional Interests
+- Cryptographic Protocols for Multiparty Computation
+- Blockchain Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Personal Interests
+- Comics
+- Non-fiction Books
+- Sustainability
+- Promoting Equality
+
+## 🏃‍♂️ Hobbies and Sports
+- Gym
+- Running
+- Yoga
+- Hiking
+
+## 📫 Explore & Connect
+- [Personal Homepage](https://lorenzogentile404.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/lorenzogentile404/)
+- [Google Scholar](https://scholar.google.com/citations?user=YBFTYGQAAAAJ)
