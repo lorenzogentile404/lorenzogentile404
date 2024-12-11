@@ -8,18 +8,23 @@
 ## 🌟 Professional Interests
 - Cryptographic Protocols for Multiparty Computation
 - Blockchain Applications
+- Operations Research
+- Game Theory
 
 ## 📚 Personal Interests
-- Comics
 - Non-fiction Books
+- Comics
 - Sustainability
 - Promoting Equality
 
 ## 🏃‍♂️ Hobbies and Sports
-- Gym
-- Running
-- Yoga
+- Singing
+- Playing Guitar
 - Hiking
+- Spinning
+- Yoga
+- Running
+- Gym
 
 ## 📫 Explore & Connect
 - [Personal Homepage](https://lorenzogentile404.github.io/)
