@@ -11,20 +11,12 @@
 - Operations Research
 - Game Theory
 
-## 📚 Personal Interests
-- Non-fiction Books
-- Comics
-- Sustainability
-- Promoting Equality
-
 ## 🏃‍♂️ Hobbies and Sports
 - Singing
 - Playing Guitar
+- Writing
 - Hiking
-- Spinning
-- Yoga
-- Running
-- Gym
+- CrossFit
 
 ## 📫 Explore & Connect
 - [Personal Homepage](https://lorenzogentile404.github.io/)
